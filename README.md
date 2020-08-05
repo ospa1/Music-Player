@@ -6,10 +6,12 @@ the project come in two parts the first is a music service called clipServer tha
 the second is the audio client that binds to the service and can play, pause, stop, and choose music or audio files.
 
 Pros:
-the clip server can be bound to multiple apps
-audio will continnue playing even if the phone is not in the foreground or is locked
+
+the clip server can be bound to multiple apps.
+audio will continnue playing even if the phone is not in the foreground or is locked.
 
 Cons:
+
 have to manually add music to the service.
 selecting music should be a scrollable list.
 
