@@ -8,7 +8,7 @@ the second is the audio client that binds to the service and can play, pause, st
 Pros:
 
 the clip server can be bound to multiple apps.
-audio will continnue playing even if the phone is not in the foreground or is locked.
+/n audio will continnue playing even if the phone is not in the foreground or is locked.
 
 Cons:
 
